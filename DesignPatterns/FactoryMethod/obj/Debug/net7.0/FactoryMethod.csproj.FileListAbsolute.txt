@@ -1,0 +1,15 @@
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.exe
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.deps.json
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.runtimeconfig.json
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.dll
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\bin\Debug\net7.0\FactoryMethod.pdb
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.AssemblyReference.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.AssemblyInfo.cs
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.dll
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\refint\FactoryMethod.dll
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.pdb
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\FactoryMethod.genruntimeconfig.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\FactoryMethod\obj\Debug\net7.0\ref\FactoryMethod.dll
