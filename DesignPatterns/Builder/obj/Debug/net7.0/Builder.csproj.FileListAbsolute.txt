@@ -1,0 +1,15 @@
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\bin\Debug\net7.0\Builder.exe
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\bin\Debug\net7.0\Builder.deps.json
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\bin\Debug\net7.0\Builder.runtimeconfig.json
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\bin\Debug\net7.0\Builder.dll
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\bin\Debug\net7.0\Builder.pdb
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\Builder.csproj.AssemblyReference.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\Builder.AssemblyInfoInputs.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\Builder.AssemblyInfo.cs
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\Builder.csproj.CoreCompileInputs.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\Builder.dll
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\refint\Builder.dll
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\Builder.pdb
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\Builder.genruntimeconfig.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Builder\obj\Debug\net7.0\ref\Builder.dll
