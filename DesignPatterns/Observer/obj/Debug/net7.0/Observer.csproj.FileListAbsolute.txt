@@ -1,0 +1,15 @@
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\bin\Debug\net7.0\Observer.exe
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\bin\Debug\net7.0\Observer.deps.json
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\bin\Debug\net7.0\Observer.runtimeconfig.json
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\bin\Debug\net7.0\Observer.dll
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\bin\Debug\net7.0\Observer.pdb
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\Observer.csproj.AssemblyReference.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\Observer.AssemblyInfoInputs.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\Observer.AssemblyInfo.cs
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\Observer.csproj.CoreCompileInputs.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\Observer.dll
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\refint\Observer.dll
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\Observer.pdb
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\Observer.genruntimeconfig.cache
+C:\Proyectos\GitHub\Design-Patterns-C-\DesignPatterns\Observer\obj\Debug\net7.0\ref\Observer.dll
